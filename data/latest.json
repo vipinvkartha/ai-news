@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:41:30.124325+00:00",
+  "generated_at": "2026-06-14T15:07:38.492533+00:00",
   "count": 60,
   "items": [
     {
@@ -7,78 +7,78 @@
       "url": "https://www.anthropic.com/news/fable-mythos-access",
       "source": "Hacker News",
       "published_at": "2026-06-13T00:51:30+00:00",
-      "points": 3097,
+      "points": 3098,
       "tags": [
         "hn",
         "q:Anthropic"
       ],
-      "score": 118.513,
-      "hours_old": 37.8
+      "score": 118.409,
+      "hours_old": 38.3
     },
     {
       "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
       "source": "Hacker News",
       "published_at": "2026-06-13T02:14:24+00:00",
-      "points": 1545,
+      "points": 1546,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 108.83,
-      "hours_old": 36.5
+      "score": 108.731,
+      "hours_old": 36.9
     },
     {
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "source": "Hacker News",
       "published_at": "2026-06-13T16:57:49+00:00",
-      "points": 744,
+      "points": 750,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 101.979,
-      "hours_old": 21.7
+      "score": 101.986,
+      "hours_old": 22.2
     },
     {
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
       "source": "Hacker News",
       "published_at": "2026-06-13T16:18:31+00:00",
-      "points": 695,
+      "points": 699,
       "tags": [
         "hn",
         "q:LLM"
       ],
-      "score": 100.834,
-      "hours_old": 22.4
+      "score": 100.807,
+      "hours_old": 22.8
     },
     {
       "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
       "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
       "source": "Hacker News",
       "published_at": "2026-06-13T19:54:55+00:00",
-      "points": 349,
+      "points": 353,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 91.818,
-      "hours_old": 18.8
+      "score": 91.873,
+      "hours_old": 19.2
     },
     {
       "title": "AI coding at home without going broke",
       "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
       "source": "Hacker News",
       "published_at": "2026-06-13T16:45:03+00:00",
-      "points": 314,
+      "points": 316,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 89.507,
-      "hours_old": 21.9
+      "score": 89.489,
+      "hours_old": 22.4
     },
     {
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
@@ -90,8 +90,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 86.14,
-      "hours_old": 26.5
+      "score": 86.031,
+      "hours_old": 26.9
     },
     {
       "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
@@ -103,8 +103,8 @@
         "hn",
         "q:GPT"
       ],
-      "score": 83.693,
-      "hours_old": 45.6
+      "score": 83.584,
+      "hours_old": 46.0
     },
     {
       "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
@@ -116,34 +116,21 @@
         "hn",
         "q:AI"
       ],
-      "score": 77.891,
-      "hours_old": 29.0
-    },
-    {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "source": "Hacker News",
-      "published_at": "2026-06-12T14:48:38+00:00",
-      "points": 218,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 77.778,
-      "hours_old": 47.9
+      "score": 77.782,
+      "hours_old": 29.4
     },
     {
       "title": "Orthodox C++ (2016)",
       "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
       "source": "Hacker News",
       "published_at": "2026-06-13T13:58:46+00:00",
-      "points": 98,
+      "points": 99,
       "tags": [
         "hn",
         "q:GPT"
       ],
-      "score": 72.116,
-      "hours_old": 24.7
+      "score": 72.152,
+      "hours_old": 25.1
     },
     {
       "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
@@ -155,21 +142,21 @@
         "hn",
         "q:GPT"
       ],
-      "score": 70.767,
-      "hours_old": 47.1
+      "score": 70.658,
+      "hours_old": 47.6
     },
     {
       "title": "Making Claude a Chemist",
       "url": "https://www.anthropic.com/research/making-claude-a-chemist",
       "source": "Hacker News",
       "published_at": "2026-06-14T02:55:36+00:00",
-      "points": 68,
+      "points": 70,
       "tags": [
         "hn",
         "q:Anthropic"
       ],
-      "score": 70.144,
-      "hours_old": 11.8
+      "score": 70.447,
+      "hours_old": 12.2
     },
     {
       "title": "PwC Report: AI Making Medical Bills Higher",
@@ -181,8 +168,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 69.778,
-      "hours_old": 21.0
+      "score": 69.669,
+      "hours_old": 21.5
     },
     {
       "title": "Meta’s chaotic AI strategy",
@@ -194,8 +181,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 69.761,
-      "hours_old": 13.3
+      "score": 69.652,
+      "hours_old": 13.7
     },
     {
       "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
@@ -207,21 +194,21 @@
         "hn",
         "q:GPT"
       ],
-      "score": 68.609,
-      "hours_old": 42.1
+      "score": 68.5,
+      "hours_old": 42.6
     },
     {
       "title": "Weave: Merging based on language structure and not lines",
       "url": "https://ataraxy-labs.github.io/weave/",
       "source": "Hacker News",
       "published_at": "2026-06-14T02:45:38+00:00",
-      "points": 60,
+      "points": 61,
       "tags": [
         "hn",
         "q:GPT"
       ],
-      "score": 68.325,
-      "hours_old": 11.9
+      "score": 68.45,
+      "hours_old": 12.4
     },
     {
       "title": "State Attorneys General Are Investigating OpenAI",
@@ -233,8 +220,8 @@
         "hn",
         "q:OpenAI"
       ],
-      "score": 67.837,
-      "hours_old": 14.8
+      "score": 67.728,
+      "hours_old": 15.3
     },
     {
       "title": "Show HN: I built 80 mini-games using Fable before it was shut down",
@@ -246,8 +233,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 65.23,
-      "hours_old": 15.1
+      "score": 65.121,
+      "hours_old": 15.5
     },
     {
       "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
@@ -259,8 +246,8 @@
         "hn",
         "q:LLM"
       ],
-      "score": 63.224,
-      "hours_old": 26.4
+      "score": 63.115,
+      "hours_old": 26.8
     },
     {
       "title": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
@@ -272,8 +259,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 60.186,
-      "hours_old": 47.3
+      "score": 60.077,
+      "hours_old": 47.7
     },
     {
       "title": "Show HN: Script to bulk delete Claude chats from the web UI",
@@ -285,8 +272,8 @@
         "hn",
         "q:GPT"
       ],
-      "score": 59.183,
-      "hours_old": 47.5
+      "score": 59.074,
+      "hours_old": 48.0
     },
     {
       "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
@@ -298,8 +285,34 @@
         "hn",
         "q:AI"
       ],
-      "score": 58.642,
-      "hours_old": 45.7
+      "score": 58.534,
+      "hours_old": 46.2
+    },
+    {
+      "title": "Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists",
+      "url": "https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists",
+      "source": "Hacker News",
+      "published_at": "2026-06-14T06:21:48+00:00",
+      "points": 28,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 58.389,
+      "hours_old": 8.8
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "Hacker News",
+      "published_at": "2026-06-14T14:01:35+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 57.574,
+      "hours_old": 1.1
     },
     {
       "title": "Derbyshire Police officer accused of using AI to 'create evidence'",
@@ -311,21 +324,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 57.55,
-      "hours_old": 16.0
-    },
-    {
-      "title": "Trial of 12mph bike lane speed limit grinds gears of Dutch cyclists",
-      "url": "https://www.theguardian.com/world/2026/jun/14/trial-of-12mph-bike-lane-speed-limit-grinds-gears-of-dutch-cyclists",
-      "source": "Hacker News",
-      "published_at": "2026-06-14T06:21:48+00:00",
-      "points": 26,
-      "tags": [
-        "hn",
-        "q:LLM"
-      ],
-      "score": 57.467,
-      "hours_old": 8.3
+      "score": 57.441,
+      "hours_old": 16.4
     },
     {
       "title": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
@@ -337,8 +337,21 @@
         "hn",
         "q:GPT"
       ],
-      "score": 57.2,
-      "hours_old": 15.5
+      "score": 57.091,
+      "hours_old": 15.9
+    },
+    {
+      "title": "KPMG's AI report turns into a demo of AI hallucinations",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
+      "source": "Hacker News",
+      "published_at": "2026-06-13T10:32:38+00:00",
+      "points": 36,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 56.949,
+      "hours_old": 28.6
     },
     {
       "title": "Apt Encounters of the Third Kind (2021)",
@@ -350,21 +363,8 @@
         "hn",
         "q:GPT"
       ],
-      "score": 56.972,
-      "hours_old": 12.4
-    },
-    {
-      "title": "KPMG's AI report turns into a demo of AI hallucinations",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
-      "source": "Hacker News",
-      "published_at": "2026-06-13T10:32:38+00:00",
-      "points": 33,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 55.838,
-      "hours_old": 28.1
+      "score": 56.863,
+      "hours_old": 12.8
     },
     {
       "title": "Reddit RSS feeds recent rate limiting and solution",
@@ -376,8 +376,8 @@
         "hn",
         "q:LLM"
       ],
-      "score": 55.647,
-      "hours_old": 36.8
+      "score": 55.538,
+      "hours_old": 37.3
     },
     {
       "title": "Show HN: Bastion – isolated Linux VMs for background coding agents",
@@ -389,21 +389,21 @@
         "hn",
         "q:LLM"
       ],
-      "score": 54.224,
-      "hours_old": 12.0
+      "score": 54.115,
+      "hours_old": 12.5
     },
     {
       "title": "The whirlwind 24 hours that led to export controls on Anthropic",
       "url": "https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519",
       "source": "Hacker News",
       "published_at": "2026-06-14T01:37:22+00:00",
-      "points": 21,
+      "points": 22,
       "tags": [
         "hn",
         "q:Anthropic"
       ],
-      "score": 53.327,
-      "hours_old": 13.1
+      "score": 53.859,
+      "hours_old": 13.5
     },
     {
       "title": "GLM 5.2 Released",
@@ -415,8 +415,8 @@
         "hn",
         "q:LLM"
       ],
-      "score": 53.14,
-      "hours_old": 27.7
+      "score": 53.031,
+      "hours_old": 28.2
     },
     {
       "title": "What Would It Look Like If the AI Bubble Popped?",
@@ -428,8 +428,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 52.818,
-      "hours_old": 29.0
+      "score": 52.709,
+      "hours_old": 29.5
     },
     {
       "title": "LLMs aren't conscious (and thinking they are is culturally dangerous)",
@@ -441,8 +441,8 @@
         "hn",
         "q:LLM"
       ],
-      "score": 52.759,
-      "hours_old": 17.9
+      "score": 52.65,
+      "hours_old": 18.3
     },
     {
       "title": "Trump admin blocks foreign access to Anthropic's most powerful AI models",
@@ -454,8 +454,8 @@
         "hn",
         "q:AI"
       ],
-      "score": 51.365,
-      "hours_old": 38.8
+      "score": 51.256,
+      "hours_old": 39.3
     },
     {
       "title": "A generic dynamic array in C that stores no capacity and needs no struct",
@@ -467,8 +467,8 @@
         "hn",
         "q:GPT"
       ],
-      "score": 48.272,
-      "hours_old": 35.9
+      "score": 48.163,
+      "hours_old": 36.3
     },
     {
       "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
@@ -480,8 +480,8 @@
         "hn",
         "q:GPT"
       ],
-      "score": 47.932,
-      "hours_old": 32.0
+      "score": 47.823,
+      "hours_old": 32.4
     },
     {
       "title": "Confused, where to start [D]",
@@ -492,19 +492,7 @@
       "tags": [
         "reddit"
       ],
-      "score": 9.694,
-      "hours_old": 9.2
-    },
-    {
-      "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
-      "url": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
-      "source": "MarkTechPost",
-      "published_at": "2026-06-14T05:01:39+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 9.584,
+      "score": 9.585,
       "hours_old": 9.7
     },
     {
@@ -516,8 +504,8 @@
       "tags": [
         "news"
       ],
-      "score": 9.077,
-      "hours_old": 11.7
+      "score": 8.968,
+      "hours_old": 12.1
     },
     {
       "title": "The Verifier Tax: Horizon-Dependent Safety–Success Tradeoffs in Tool-Using LLM Agents [R]",
@@ -528,8 +516,8 @@
       "tags": [
         "reddit"
       ],
-      "score": 8.868,
-      "hours_old": 12.5
+      "score": 8.759,
+      "hours_old": 13.0
     },
     {
       "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
@@ -540,8 +528,8 @@
       "tags": [
         "news"
       ],
-      "score": 8.343,
-      "hours_old": 14.6
+      "score": 8.234,
+      "hours_old": 15.1
     },
     {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
@@ -552,20 +540,8 @@
       "tags": [
         "news"
       ],
-      "score": 7.741,
-      "hours_old": 17.0
-    },
-    {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "TechCrunch AI",
-      "published_at": "2026-06-13T20:42:31+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 7.504,
-      "hours_old": 18.0
+      "score": 7.632,
+      "hours_old": 17.5
     },
     {
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
@@ -576,8 +552,8 @@
       "tags": [
         "news"
       ],
-      "score": 7.126,
-      "hours_old": 19.5
+      "score": 7.017,
+      "hours_old": 19.9
     },
     {
       "title": "I’m building a free bilingual machine-learning notebook course — looking for feedback on structure and coverage [R]",
@@ -588,20 +564,8 @@
       "tags": [
         "reddit"
       ],
-      "score": 7.107,
-      "hours_old": 19.6
-    },
-    {
-      "title": "How to Build a QwenPaw Agent Workspace with Custom Skills, Model Providers, Console Access, and Streaming API Testing",
-      "url": "https://www.marktechpost.com/2026/06/13/how-to-build-a-qwenpaw-agent-workspace-with-custom-skills-model-providers-console-access-and-streaming-api-testing/",
-      "source": "MarkTechPost",
-      "published_at": "2026-06-13T17:27:22+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 6.691,
-      "hours_old": 21.2
+      "score": 6.999,
+      "hours_old": 20.0
     },
     {
       "title": "OpenAI faces investigation from state attorneys general",
@@ -612,8 +576,8 @@
       "tags": [
         "news"
       ],
-      "score": 6.524,
-      "hours_old": 21.9
+      "score": 6.415,
+      "hours_old": 22.3
     },
     {
       "title": "My yard is dying, so I made an app for that",
@@ -624,8 +588,8 @@
       "tags": [
         "news"
       ],
-      "score": 5.577,
-      "hours_old": 25.7
+      "score": 5.468,
+      "hours_old": 26.1
     },
     {
       "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
@@ -636,8 +600,8 @@
       "tags": [
         "news"
       ],
-      "score": 5.56,
-      "hours_old": 25.8
+      "score": 5.451,
+      "hours_old": 26.2
     },
     {
       "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
@@ -648,8 +612,8 @@
       "tags": [
         "news"
       ],
-      "score": 5.327,
-      "hours_old": 26.7
+      "score": 5.218,
+      "hours_old": 27.1
     },
     {
       "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
@@ -660,32 +624,8 @@
       "tags": [
         "news"
       ],
-      "score": 5.077,
-      "hours_old": 27.7
-    },
-    {
-      "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
-      "url": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
-      "source": "MarkTechPost",
-      "published_at": "2026-06-13T08:15:18+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 4.391,
-      "hours_old": 30.4
-    },
-    {
-      "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
-      "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
-      "source": "MarkTechPost",
-      "published_at": "2026-06-13T04:57:12+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 3.565,
-      "hours_old": 33.7
+      "score": 4.968,
+      "hours_old": 28.1
     },
     {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
@@ -696,20 +636,8 @@
       "tags": [
         "news"
       ],
-      "score": 3.387,
-      "hours_old": 34.5
-    },
-    {
-      "title": "A Coding Implementation on Spatial Graph Neural Networks for Urban Function Inference Using city2graph, OSMnx, and PyTorch Geometric",
-      "url": "https://www.marktechpost.com/2026/06/12/a-coding-implementation-on-spatial-graph-neural-networks-for-urban-function-inference-using-city2graph-osmnx-and-pytorch-geometric/",
-      "source": "MarkTechPost",
-      "published_at": "2026-06-13T02:47:16+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 3.024,
-      "hours_old": 35.9
+      "score": 3.278,
+      "hours_old": 34.9
     },
     {
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
@@ -720,8 +648,8 @@
       "tags": [
         "news"
       ],
-      "score": 2.937,
-      "hours_old": 36.3
+      "score": 2.829,
+      "hours_old": 36.7
     },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
@@ -732,8 +660,8 @@
       "tags": [
         "news"
       ],
-      "score": 2.141,
-      "hours_old": 39.4
+      "score": 2.032,
+      "hours_old": 39.9
     },
     {
       "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
@@ -744,20 +672,92 @@
       "tags": [
         "news"
       ],
-      "score": 2.081,
-      "hours_old": 39.7
+      "score": 1.972,
+      "hours_old": 40.1
     },
     {
-      "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
-      "url": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
-      "source": "MarkTechPost",
-      "published_at": "2026-06-12T21:04:11+00:00",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-06-12T20:38:09+00:00",
       "points": 0,
       "tags": [
         "news"
       ],
-      "score": 1.595,
-      "hours_old": 41.6
+      "score": 1.377,
+      "hours_old": 42.5
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-06-12T17:38:11+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.627,
+      "hours_old": 45.5
+    },
+    {
+      "title": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "source": "The Verge AI",
+      "published_at": "2026-06-12T17:17:04+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.539,
+      "hours_old": 45.8
+    },
+    {
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "source": "The Verge AI",
+      "published_at": "2026-06-12T16:24:39+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.321,
+      "hours_old": 46.7
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-06-12T16:23:25+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.316,
+      "hours_old": 46.7
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-12T15:56:10+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.202,
+      "hours_old": 47.2
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-06-12T15:50:52+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.18,
+      "hours_old": 47.3
     }
   ]
 }
