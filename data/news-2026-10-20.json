@@ -1,0 +1,767 @@
+{
+  "generated_at": "2026-10-20T11:13:03.361317+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T23:22:18+00:00",
+      "points": 475,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 97.987,
+      "hours_old": 11.8
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T09:59:32+00:00",
+      "points": 589,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 97.739,
+      "hours_old": 25.2
+    },
+    {
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T09:08:54+00:00",
+      "points": 369,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 96.796,
+      "hours_old": 2.1
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T11:24:34+00:00",
+      "points": 475,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 94.996,
+      "hours_old": 23.8
+    },
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T20:48:14+00:00",
+      "points": 506,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 92.255,
+      "hours_old": 38.4
+    },
+    {
+      "title": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T16:45:30+00:00",
+      "points": 321,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 90.694,
+      "hours_old": 18.5
+    },
+    {
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T13:48:48+00:00",
+      "points": 442,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 88.561,
+      "hours_old": 45.4
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T21:09:12+00:00",
+      "points": 297,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 84.676,
+      "hours_old": 38.1
+    },
+    {
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T14:48:01+00:00",
+      "points": 297,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 83.087,
+      "hours_old": 44.4
+    },
+    {
+      "title": "How abliterated models can get you pwned",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T23:08:52+00:00",
+      "points": 147,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 81.077,
+      "hours_old": 12.1
+    },
+    {
+      "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
+      "url": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T17:30:26+00:00",
+      "points": 159,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 80.792,
+      "hours_old": 17.7
+    },
+    {
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T15:52:26+00:00",
+      "points": 155,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 80.018,
+      "hours_old": 19.3
+    },
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T13:00:47+00:00",
+      "points": 149,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 78.737,
+      "hours_old": 22.2
+    },
+    {
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T12:06:03+00:00",
+      "points": 146,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 78.218,
+      "hours_old": 23.1
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T11:16:22+00:00",
+      "points": 219,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 77.827,
+      "hours_old": 47.9
+    },
+    {
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T12:07:41+00:00",
+      "points": 130,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 76.562,
+      "hours_old": 23.1
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T14:30:27+00:00",
+      "points": 171,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 75.085,
+      "hours_old": 44.7
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T21:36:10+00:00",
+      "points": 150,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 74.98,
+      "hours_old": 37.6
+    },
+    {
+      "title": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T17:56:59+00:00",
+      "points": 155,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 74.537,
+      "hours_old": 41.3
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T14:58:10+00:00",
+      "points": 154,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 73.699,
+      "hours_old": 44.2
+    },
+    {
+      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T01:56:39+00:00",
+      "points": 121,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 72.989,
+      "hours_old": 33.3
+    },
+    {
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "url": "https://deathplanswitch.com/",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T04:37:43+00:00",
+      "points": 71,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 72.052,
+      "hours_old": 6.6
+    },
+    {
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "url": "https://heymaxwell.ai/",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T13:47:56+00:00",
+      "points": 83,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 70.568,
+      "hours_old": 21.4
+    },
+    {
+      "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+      "url": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T14:16:41+00:00",
+      "points": 120,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 69.954,
+      "hours_old": 44.9
+    },
+    {
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "url": "https://github.com/kividbio/kividb",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T13:53:52+00:00",
+      "points": 68,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 67.755,
+      "hours_old": 21.3
+    },
+    {
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T12:22:58+00:00",
+      "points": 105,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 67.57,
+      "hours_old": 46.8
+    },
+    {
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T17:27:30+00:00",
+      "points": 94,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 67.259,
+      "hours_old": 41.8
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T14:23:17+00:00",
+      "points": 59,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 65.862,
+      "hours_old": 20.8
+    },
+    {
+      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+      "url": "https://3anddoneapp.com/try",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T13:07:07+00:00",
+      "points": 56,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 64.804,
+      "hours_old": 22.1
+    },
+    {
+      "title": "There is no official XScreenSaver GitHub repository",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T08:51:31+00:00",
+      "points": 31,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 61.41,
+      "hours_old": 2.4
+    },
+    {
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T18:15:10+00:00",
+      "points": 57,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 60.339,
+      "hours_old": 41.0
+    },
+    {
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T17:09:45+00:00",
+      "points": 36,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 59.581,
+      "hours_old": 18.1
+    },
+    {
+      "title": "People are using AI to make smart TVs, dumb TVs",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T00:19:13+00:00",
+      "points": 30,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 58.818,
+      "hours_old": 10.9
+    },
+    {
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T16:03:29+00:00",
+      "points": 33,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 58.085,
+      "hours_old": 19.2
+    },
+    {
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T06:40:49+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 56.715,
+      "hours_old": 4.5
+    },
+    {
+      "title": "Cairn: Open windows into AI-driven cyber operations",
+      "url": "https://norforge.com/blog/inside_cairn",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T13:35:12+00:00",
+      "points": 29,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 55.661,
+      "hours_old": 21.6
+    },
+    {
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "url": "https://ranet3.com/",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T14:31:52+00:00",
+      "points": 40,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 54.404,
+      "hours_old": 44.7
+    },
+    {
+      "title": "Show HN: RoadRash ported to Three.js to run in the browser",
+      "url": "https://roadrash.pages.dev",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T22:01:54+00:00",
+      "points": 22,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 53.939,
+      "hours_old": 13.2
+    },
+    {
+      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+      "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T14:31:27+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 52.676,
+      "hours_old": 20.7
+    },
+    {
+      "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+      "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T16:48:25+00:00",
+      "points": 29,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 50.466,
+      "hours_old": 42.4
+    },
+    {
+      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+      "url": "https://github.com/strot-ai/Project-STROT",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T04:32:07+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 50.179,
+      "hours_old": 30.7
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-20T11:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.946,
+      "hours_old": 0.2
+    },
+    {
+      "title": "I built an open-source unit-record memory engine based on 1959 IBM punched cards to stop 100k-token context replay choking [Short Promo + Live Web Demo] [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xao29y/i_built_an_opensource_unitrecord_memory_engine/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-20T10:01:12+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.701,
+      "hours_old": 1.2
+    },
+    {
+      "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-20T10:00:43+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.699,
+      "hours_old": 1.2
+    },
+    {
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Tech Review AI",
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.446,
+      "hours_old": 2.2
+    },
+    {
+      "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
+      "url": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-20T08:12:21+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.247,
+      "hours_old": 3.0
+    },
+    {
+      "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
+      "url": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-20T07:45:41+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.136,
+      "hours_old": 3.5
+    },
+    {
+      "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+      "url": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-20T03:32:43+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.082,
+      "hours_old": 7.7
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-20T01:27:03+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.558,
+      "hours_old": 9.8
+    },
+    {
+      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+      "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-20T00:03:38+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.211,
+      "hours_old": 11.2
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.196,
+      "hours_old": 11.2
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T23:39:38+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.111,
+      "hours_old": 11.6
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T22:49:27+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.902,
+      "hours_old": 12.4
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T22:04:28+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.714,
+      "hours_old": 13.1
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "source": "The Verge AI",
+      "published_at": "2026-10-19T21:48:01+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.646,
+      "hours_old": 13.4
+    },
+    {
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge AI",
+      "published_at": "2026-10-19T21:28:20+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.564,
+      "hours_old": 13.7
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T20:09:24+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.235,
+      "hours_old": 15.1
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T19:28:34+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.065,
+      "hours_old": 15.7
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T19:00:12+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.946,
+      "hours_old": 16.2
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-19T18:49:04+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.9,
+      "hours_old": 16.4
+    }
+  ]
+}
