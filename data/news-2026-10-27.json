@@ -1,0 +1,775 @@
+{
+  "generated_at": "2026-10-27T11:52:33.446396+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T13:04:50+00:00",
+      "points": 1631,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 113.025,
+      "hours_old": 22.8
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T21:35:28+00:00",
+      "points": 960,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 107.513,
+      "hours_old": 14.3
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T21:59:15+00:00",
+      "points": 661,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 102.235,
+      "hours_old": 13.9
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T18:01:17+00:00",
+      "points": 600,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 99.849,
+      "hours_old": 17.9
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T17:15:38+00:00",
+      "points": 660,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 95.031,
+      "hours_old": 42.6
+    },
+    {
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T16:35:44+00:00",
+      "points": 307,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 89.848,
+      "hours_old": 19.3
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T21:11:31+00:00",
+      "points": 426,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 89.71,
+      "hours_old": 38.7
+    },
+    {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T06:25:37+00:00",
+      "points": 208,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 87.711,
+      "hours_old": 5.4
+    },
+    {
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T18:14:49+00:00",
+      "points": 248,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 87.193,
+      "hours_old": 17.6
+    },
+    {
+      "title": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T17:25:30+00:00",
+      "points": 188,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 83.01,
+      "hours_old": 18.5
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T03:29:05+00:00",
+      "points": 231,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 82.482,
+      "hours_old": 32.4
+    },
+    {
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T12:58:27+00:00",
+      "points": 179,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 81.193,
+      "hours_old": 22.9
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T22:41:48+00:00",
+      "points": 145,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 80.603,
+      "hours_old": 13.2
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T16:28:26+00:00",
+      "points": 238,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 80.158,
+      "hours_old": 43.4
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T12:59:48+00:00",
+      "points": 166,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 80.117,
+      "hours_old": 22.9
+    },
+    {
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T16:27:12+00:00",
+      "points": 237,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 80.093,
+      "hours_old": 43.4
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T16:12:29+00:00",
+      "points": 148,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 79.275,
+      "hours_old": 19.7
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T01:03:39+00:00",
+      "points": 191,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 79.146,
+      "hours_old": 34.8
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T00:15:17+00:00",
+      "points": 165,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 76.845,
+      "hours_old": 35.6
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T18:58:14+00:00",
+      "points": 148,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 73.965,
+      "hours_old": 40.9
+    },
+    {
+      "title": "There are now 5 inference providers for abliterated DeepSeek",
+      "url": "https://allmodels.io/llm/abliterated",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T04:53:52+00:00",
+      "points": 80,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 73.654,
+      "hours_old": 7.0
+    },
+    {
+      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+      "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T21:13:59+00:00",
+      "points": 68,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 69.425,
+      "hours_old": 14.6
+    },
+    {
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T04:11:40+00:00",
+      "points": 80,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 67.478,
+      "hours_old": 31.7
+    },
+    {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T12:47:20+00:00",
+      "points": 98,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 66.522,
+      "hours_old": 47.1
+    },
+    {
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T18:42:23+00:00",
+      "points": 88,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 66.465,
+      "hours_old": 41.2
+    },
+    {
+      "title": "What Adobe v ArtCraft teaches us",
+      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T15:34:44+00:00",
+      "points": 90,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 66.004,
+      "hours_old": 44.3
+    },
+    {
+      "title": "Eunice is almost here",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T19:40:27+00:00",
+      "points": 82,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 65.7,
+      "hours_old": 40.2
+    },
+    {
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T14:05:03+00:00",
+      "points": 90,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 65.63,
+      "hours_old": 45.8
+    },
+    {
+      "title": "The Git Forge for Agent-Human Collaboration",
+      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T17:23:11+00:00",
+      "points": 55,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 65.451,
+      "hours_old": 18.5
+    },
+    {
+      "title": "US inequality is getting worse in ways you might not expect",
+      "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T13:24:37+00:00",
+      "points": 85,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 64.646,
+      "hours_old": 46.5
+    },
+    {
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T22:49:06+00:00",
+      "points": 72,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 64.634,
+      "hours_old": 37.1
+    },
+    {
+      "title": "AI is ruining haunted houses",
+      "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T08:50:33+00:00",
+      "points": 38,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 64.096,
+      "hours_old": 3.0
+    },
+    {
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T16:31:21+00:00",
+      "points": 70,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 62.659,
+      "hours_old": 43.4
+    },
+    {
+      "title": "Nvidia discusses $2k-per-GPU annual fee for software",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T17:34:45+00:00",
+      "points": 39,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 60.645,
+      "hours_old": 18.3
+    },
+    {
+      "title": "GPT 6.1 Terra",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T17:58:24+00:00",
+      "points": 37,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 60.004,
+      "hours_old": 17.9
+    },
+    {
+      "title": "“AI Skills” are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T06:33:34+00:00",
+      "points": 29,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 59.74,
+      "hours_old": 5.3
+    },
+    {
+      "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
+      "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T19:52:44+00:00",
+      "points": 32,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 58.445,
+      "hours_old": 16.0
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T19:10:36+00:00",
+      "points": 47,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 57.675,
+      "hours_old": 40.7
+    },
+    {
+      "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+      "url": "https://dbohdan.github.io/glider/",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T23:18:42+00:00",
+      "points": 43,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 57.453,
+      "hours_old": 36.6
+    },
+    {
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T02:22:38+00:00",
+      "points": 38,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 56.479,
+      "hours_old": 33.5
+    },
+    {
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T18:40:53+00:00",
+      "points": 26,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 55.25,
+      "hours_old": 17.2
+    },
+    {
+      "title": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T18:54:00+00:00",
+      "points": 24,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 54.195,
+      "hours_old": 17.0
+    },
+    {
+      "title": "AI models cost more when you don't use English",
+      "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T21:03:22+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 54.145,
+      "hours_old": 14.8
+    },
+    {
+      "title": "Grand theft AI: Highway thieves are stealing millions in data center gear",
+      "url": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T20:28:32+00:00",
+      "points": 22,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 53.386,
+      "hours_old": 15.4
+    },
+    {
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "url": "https://freehire.me/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T01:13:43+00:00",
+      "points": 31,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 53.338,
+      "hours_old": 34.6
+    },
+    {
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T13:06:35+00:00",
+      "points": 25,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 53.313,
+      "hours_old": 22.8
+    },
+    {
+      "title": "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+      "url": "https://news.ycombinator.com/item?id=50237680",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T01:00:52+00:00",
+      "points": 31,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 53.285,
+      "hours_old": 34.9
+    },
+    {
+      "title": "In China, the AI bubble has burst",
+      "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T15:50:54+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 52.843,
+      "hours_old": 20.0
+    },
+    {
+      "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "source": "Hacker News",
+      "published_at": "2026-10-26T13:00:51+00:00",
+      "points": 20,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 50.208,
+      "hours_old": 22.9
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Tech Review AI",
+      "published_at": "2026-10-27T11:19:18+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.861,
+      "hours_old": 0.6
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-27T11:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.781,
+      "hours_old": 0.9
+    },
+    {
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "source": "The Verge AI",
+      "published_at": "2026-10-27T10:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.531,
+      "hours_old": 1.9
+    },
+    {
+      "title": "Papers with Code is now open-source [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-27T09:54:44+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.509,
+      "hours_old": 2.0
+    },
+    {
+      "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+      "url": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-27T05:50:57+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.493,
+      "hours_old": 6.0
+    },
+    {
+      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+      "url": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-27T05:26:36+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.392,
+      "hours_old": 6.4
+    },
+    {
+      "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-27T04:12:34+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 10.083,
+      "hours_old": 7.7
+    },
+    {
+      "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+      "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-27T02:45:27+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.72,
+      "hours_old": 9.1
+    },
+    {
+      "title": "What is the value proposition of \"RL environment\" companies? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-27T02:37:13+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 9.686,
+      "hours_old": 9.3
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.531,
+      "hours_old": 9.9
+    },
+    {
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-27T01:12:21+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.332,
+      "hours_old": 10.7
+    }
+  ]
+}
