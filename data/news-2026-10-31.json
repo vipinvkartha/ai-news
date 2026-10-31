@@ -1,0 +1,777 @@
+{
+  "generated_at": "2026-10-31T11:57:54.918489+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T15:52:18+00:00",
+      "points": 604,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 99.385,
+      "hours_old": 20.1
+    },
+    {
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T14:57:55+00:00",
+      "points": 598,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 93.014,
+      "hours_old": 45.0
+    },
+    {
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T10:22:51+00:00",
+      "points": 399,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 92.042,
+      "hours_old": 25.6
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T17:27:25+00:00",
+      "points": 311,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 90.227,
+      "hours_old": 18.5
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T15:48:12+00:00",
+      "points": 297,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 89.151,
+      "hours_old": 20.2
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T21:40:28+00:00",
+      "points": 402,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 88.974,
+      "hours_old": 38.3
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T17:24:45+00:00",
+      "points": 276,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 88.499,
+      "hours_old": 18.6
+    },
+    {
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T00:42:41+00:00",
+      "points": 354,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 87.903,
+      "hours_old": 35.3
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T16:40:22+00:00",
+      "points": 256,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 87.233,
+      "hours_old": 19.3
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T16:13:02+00:00",
+      "points": 255,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 87.063,
+      "hours_old": 19.7
+    },
+    {
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T15:30:22+00:00",
+      "points": 323,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 84.284,
+      "hours_old": 44.5
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T14:08:20+00:00",
+      "points": 208,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 83.617,
+      "hours_old": 21.8
+    },
+    {
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T20:32:28+00:00",
+      "points": 270,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 82.965,
+      "hours_old": 39.4
+    },
+    {
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T03:22:44+00:00",
+      "points": 154,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 82.615,
+      "hours_old": 8.6
+    },
+    {
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T17:57:35+00:00",
+      "points": 153,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 80.166,
+      "hours_old": 18.0
+    },
+    {
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T01:58:44+00:00",
+      "points": 193,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 79.503,
+      "hours_old": 34.0
+    },
+    {
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T14:29:06+00:00",
+      "points": 228,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 79.022,
+      "hours_old": 45.5
+    },
+    {
+      "title": "Ask HN: Are you tired too in this AI era?",
+      "url": "https://news.ycombinator.com/item?id=50301479",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T09:17:43+00:00",
+      "points": 144,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 77.132,
+      "hours_old": 26.7
+    },
+    {
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T21:58:34+00:00",
+      "points": 162,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 75.99,
+      "hours_old": 38.0
+    },
+    {
+      "title": "France is getting download tax for content providers (€0.055/GB)",
+      "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T22:10:12+00:00",
+      "points": 104,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 75.694,
+      "hours_old": 13.8
+    },
+    {
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T15:06:17+00:00",
+      "points": 178,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 75.623,
+      "hours_old": 44.9
+    },
+    {
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T19:27:44+00:00",
+      "points": 152,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 74.448,
+      "hours_old": 40.5
+    },
+    {
+      "title": "Anthropic Cracking Down on Video Game Rewrites",
+      "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T14:22:52+00:00",
+      "points": 108,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 74.286,
+      "hours_old": 21.6
+    },
+    {
+      "title": "Digital Minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T06:16:36+00:00",
+      "points": 81,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 74.153,
+      "hours_old": 5.7
+    },
+    {
+      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T23:08:12+00:00",
+      "points": 89,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 73.711,
+      "hours_old": 12.8
+    },
+    {
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T23:25:46+00:00",
+      "points": 127,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 72.866,
+      "hours_old": 36.5
+    },
+    {
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T15:45:05+00:00",
+      "points": 144,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 72.746,
+      "hours_old": 44.2
+    },
+    {
+      "title": "Sam Altman Thinks You're Wasting DRAM",
+      "url": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T15:58:39+00:00",
+      "points": 89,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 71.922,
+      "hours_old": 20.0
+    },
+    {
+      "title": "Proton goes all in on using AI",
+      "url": "https://convo.casa/@b/117525936178835007",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T21:49:28+00:00",
+      "points": 117,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 71.291,
+      "hours_old": 38.1
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "url": "https://catcopter.com",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T15:29:40+00:00",
+      "points": 80,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 70.281,
+      "hours_old": 20.5
+    },
+    {
+      "title": "The importance of communities around software",
+      "url": "https://lumi.codeberg.page/blog/software-community.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T19:27:47+00:00",
+      "points": 108,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 69.556,
+      "hours_old": 40.5
+    },
+    {
+      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T21:32:35+00:00",
+      "points": 62,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 68.167,
+      "hours_old": 14.4
+    },
+    {
+      "title": "Keplearn: Extract Equations from Data in Seconds",
+      "url": "https://github.com/owls-on-wires/keplearn",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T14:22:53+00:00",
+      "points": 104,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 67.746,
+      "hours_old": 45.6
+    },
+    {
+      "title": "After 28 years walking across the globe, he's almost home",
+      "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T17:42:22+00:00",
+      "points": 95,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 67.285,
+      "hours_old": 42.3
+    },
+    {
+      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T22:22:13+00:00",
+      "points": 77,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 65.455,
+      "hours_old": 37.6
+    },
+    {
+      "title": "Neal Stephenson on AI and What Comes Next [video]",
+      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T14:18:34+00:00",
+      "points": 53,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 64.135,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Some Thing is Happening A note from the AI companies",
+      "url": "https://alanbellows.com/some-thing-is-happening/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T15:53:42+00:00",
+      "points": 49,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 63.421,
+      "hours_old": 20.1
+    },
+    {
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T15:29:48+00:00",
+      "points": 57,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 59.463,
+      "hours_old": 44.5
+    },
+    {
+      "title": "Polymarket got hacked",
+      "url": "https://twitter.com/PolymarketTrade/status/2115874609014726842",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T21:00:45+00:00",
+      "points": 48,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 58.409,
+      "hours_old": 39.0
+    },
+    {
+      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "url": "https://github.com/lonthq/overtone-captions",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T17:48:17+00:00",
+      "points": 44,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 56.378,
+      "hours_old": 42.2
+    },
+    {
+      "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+      "url": "https://github.com/arterialist/kube32",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T16:35:14+00:00",
+      "points": 44,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 56.074,
+      "hours_old": 43.4
+    },
+    {
+      "title": "MIT professor says AI is taking over your brain",
+      "url": "https://www.bostonglobe.com/2026/10/23/opinion/ai-impact-cognitive-ability-eric-so/",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T15:08:49+00:00",
+      "points": 44,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 55.714,
+      "hours_old": 44.8
+    },
+    {
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "url": "https://github.com/Millillion/lasm",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T02:05:41+00:00",
+      "points": 36,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 55.627,
+      "hours_old": 33.9
+    },
+    {
+      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T20:09:47+00:00",
+      "points": 25,
+      "tags": [
+        "hn",
+        "q:machine learning"
+      ],
+      "score": 55.054,
+      "hours_old": 15.8
+    },
+    {
+      "title": "OpenAI CEO Sam Altman Says You Having DRAM Instead of Data Centers Is \"Terrible\"",
+      "url": "https://www.thegamer.com/openai-ceo-sam-altman-consumers-having-dram-terrible/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T16:34:48+00:00",
+      "points": 25,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 54.158,
+      "hours_old": 19.4
+    },
+    {
+      "title": "Fair Use Benefits Everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone/",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T23:33:55+00:00",
+      "points": 22,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 54.136,
+      "hours_old": 12.4
+    },
+    {
+      "title": "Trump and aides helped Flávio Bolsonaro flee Brazil amid criminal investigations",
+      "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T18:17:54+00:00",
+      "points": 33,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 52.458,
+      "hours_old": 41.7
+    },
+    {
+      "title": "RAM wasted on users PCs.. should be concentrated on datacenters",
+      "url": "https://noai.duckduckgo.com/?q=rom+a+global+allocation+perspective%2C+actually%2C+it%E2%80%99s+quite+terrible+to+have+everybody+have+a+bunch+of+the+world%E2%80%99s+limited+supply+of+DRAM+sitting+in+their+own+computer+and+being+used+5%25+of+the+time.+You+want+maximum+utilization+in+the+cloud+if+you%E2%80%99re+trying+to+deal+with+this+very+supply-constrained+environment&ia=web",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T20:45:04+00:00",
+      "points": 20,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 52.12,
+      "hours_old": 15.2
+    },
+    {
+      "title": "Brief History of PDP Computers",
+      "url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T13:53:33+00:00",
+      "points": 33,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 51.356,
+      "hours_old": 46.1
+    },
+    {
+      "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
+      "url": "https://github.com/Ka1-S/LYNX-SHARE",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T18:02:17+00:00",
+      "points": 27,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 49.592,
+      "hours_old": 41.9
+    },
+    {
+      "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T18:47:56+00:00",
+      "points": 21,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 46.303,
+      "hours_old": 41.2
+    },
+    {
+      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+      "source": "MarkTechPost",
+      "published_at": "2026-10-31T10:10:28+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.552,
+      "hours_old": 1.8
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-31T02:30:21+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 9.635,
+      "hours_old": 9.5
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-31T01:20:05+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.342,
+      "hours_old": 10.6
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-30T22:56:13+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.743,
+      "hours_old": 13.0
+    },
+    {
+      "title": "Paid Research Survey for conference papers [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-10-30T22:42:27+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 8.686,
+      "hours_old": 13.3
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "published_at": "2026-10-30T22:32:53+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.646,
+      "hours_old": 13.4
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-30T21:54:34+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.486,
+      "hours_old": 14.1
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-30T21:26:59+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.371,
+      "hours_old": 14.5
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-10-30T21:17:40+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.332,
+      "hours_old": 14.7
+    }
+  ]
+}
