@@ -1,487 +1,578 @@
 {
-  "generated_at": "2026-11-10T14:37:55.104433+00:00",
+  "generated_at": "2026-11-11T13:53:12.693311+00:00",
   "count": 60,
   "items": [
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T12:19:22+00:00",
-      "points": 1109,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 106.586,
-      "hours_old": 26.3
-    },
     {
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "Hacker News",
       "published_at": "2026-11-09T18:56:29+00:00",
-      "points": 980,
+      "points": 993,
       "tags": [
         "hn",
         "q:Anthropic"
       ],
-      "score": 106.458,
-      "hours_old": 19.7
-    },
-    {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T18:24:38+00:00",
-      "points": 677,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 100.996,
-      "hours_old": 20.2
-    },
-    {
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T22:35:35+00:00",
-      "points": 749,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 97.498,
-      "hours_old": 40.0
-    },
-    {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T18:45:43+00:00",
-      "points": 446,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 95.074,
-      "hours_old": 19.9
-    },
-    {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T17:51:31+00:00",
-      "points": 414,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 93.776,
-      "hours_old": 20.8
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T23:44:36+00:00",
-      "points": 558,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 93.545,
-      "hours_old": 38.9
-    },
-    {
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T14:31:39+00:00",
-      "points": 335,
-      "tags": [
-        "hn",
-        "q:Anthropic"
-      ],
-      "score": 89.897,
-      "hours_old": 24.1
-    },
-    {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "Hacker News",
-      "published_at": "2026-11-10T03:20:06+00:00",
-      "points": 181,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 84.254,
-      "hours_old": 11.3
-    },
-    {
-      "title": "How I'm fighting the AI brain fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T19:37:42+00:00",
-      "points": 307,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 83.917,
-      "hours_old": 43.0
-    },
-    {
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T08:17:49+00:00",
-      "points": 212,
-      "tags": [
-        "hn",
-        "q:OpenAI"
-      ],
-      "score": 81.763,
-      "hours_old": 30.3
-    },
-    {
-      "title": "CUI – Native UI components for C",
-      "url": "https://yappologistic.github.io/CUI/",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T19:35:16+00:00",
-      "points": 173,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 81.668,
-      "hours_old": 19.0
-    },
-    {
-      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T15:39:01+00:00",
-      "points": 170,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 80.433,
-      "hours_old": 23.0
+      "score": 100.835,
+      "hours_old": 42.9
     },
     {
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "source": "Hacker News",
       "published_at": "2026-11-10T10:25:58+00:00",
-      "points": 119,
+      "points": 605,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 80.019,
-      "hours_old": 4.2
+      "score": 97.568,
+      "hours_old": 27.5
     },
     {
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
       "source": "Hacker News",
-      "published_at": "2026-11-09T22:19:12+00:00",
-      "points": 136,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 78.902,
-      "hours_old": 16.3
-    },
-    {
-      "title": "Exact – a new cross platform UI framework",
-      "url": "https://github.com/expo/exact",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T22:59:13+00:00",
-      "points": 128,
+      "published_at": "2026-11-09T18:24:38+00:00",
+      "points": 722,
       "tags": [
         "hn",
         "q:GPT"
       ],
-      "score": 78.201,
+      "score": 96.109,
+      "hours_old": 43.5
+    },
+    {
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T22:17:56+00:00",
+      "points": 429,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 95.585,
       "hours_old": 15.6
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:01:15+00:00",
+      "points": 400,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 93.508,
+      "hours_old": 19.9
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T21:25:03+00:00",
+      "points": 356,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 92.68,
+      "hours_old": 16.5
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T04:28:57+00:00",
+      "points": 281,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 91.044,
+      "hours_old": 9.4
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:45:43+00:00",
+      "points": 501,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 90.934,
+      "hours_old": 43.1
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T17:51:31+00:00",
+      "points": 469,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 89.758,
+      "hours_old": 44.0
+    },
+    {
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T20:58:44+00:00",
+      "points": 284,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 89.321,
+      "hours_old": 16.9
+    },
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T12:05:22+00:00",
+      "points": 215,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 89.1,
+      "hours_old": 1.8
+    },
+    {
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T14:31:39+00:00",
+      "points": 351,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 84.754,
+      "hours_old": 47.4
+    },
+    {
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T22:30:41+00:00",
+      "points": 222,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 80.165,
+      "hours_old": 39.4
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T03:20:06+00:00",
+      "points": 194,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 79.435,
+      "hours_old": 34.6
+    },
+    {
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T11:51:19+00:00",
+      "points": 166,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 79.329,
+      "hours_old": 26.0
     },
     {
       "title": "Fireworks AI security breach impacts Notion and their customers",
       "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "source": "Hacker News",
       "published_at": "2026-11-10T07:19:38+00:00",
-      "points": 99,
+      "points": 164,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 76.612,
-      "hours_old": 7.3
+      "score": 78.023,
+      "hours_old": 30.6
     },
     {
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "title": "CUI – Native UI components for C",
+      "url": "https://yappologistic.github.io/CUI/",
       "source": "Hacker News",
-      "published_at": "2026-11-08T14:49:23+00:00",
-      "points": 189,
+      "published_at": "2026-11-09T19:35:16+00:00",
+      "points": 179,
       "tags": [
         "hn",
-        "q:OpenAI"
+        "q:GPT"
       ],
-      "score": 75.746,
-      "hours_old": 47.8
+      "score": 76.344,
+      "hours_old": 42.3
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T05:25:54+00:00",
+      "points": 95,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 75.736,
+      "hours_old": 8.5
+    },
+    {
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T22:19:12+00:00",
+      "points": 158,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 75.237,
+      "hours_old": 39.6
+    },
+    {
+      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T15:39:01+00:00",
+      "points": 171,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 74.704,
+      "hours_old": 46.2
+    },
+    {
+      "title": "Exact – a new cross platform UI framework",
+      "url": "https://github.com/expo/exact",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T22:59:13+00:00",
+      "points": 133,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 72.936,
+      "hours_old": 38.9
+    },
+    {
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T00:37:05+00:00",
+      "points": 83,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 72.606,
+      "hours_old": 13.3
     },
     {
       "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
       "url": "https://meowdisplay.app/",
       "source": "Hacker News",
       "published_at": "2026-11-09T18:39:22+00:00",
-      "points": 112,
+      "points": 118,
       "tags": [
         "hn",
         "q:OpenAI"
       ],
-      "score": 75.208,
-      "hours_old": 20.0
+      "score": 70.14,
+      "hours_old": 43.2
+    },
+    {
+      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=50427934",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T16:36:38+00:00",
+      "points": 122,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 70.106,
+      "hours_old": 45.3
+    },
+    {
+      "title": "Let over Lambda–50 Years of Lisp (2008)",
+      "url": "https://letoverlambda.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T12:35:27+00:00",
+      "points": 82,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 69.426,
+      "hours_old": 25.3
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T04:56:47+00:00",
+      "points": 61,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 69.307,
+      "hours_old": 8.9
     },
     {
       "title": "Zebkit – Chromium as an embeddable library",
       "url": "https://github.com/ikey4u/zebkit",
       "source": "Hacker News",
       "published_at": "2026-11-09T14:34:00+00:00",
-      "points": 116,
+      "points": 117,
       "tags": [
         "hn",
         "q:GPT"
       ],
-      "score": 74.687,
-      "hours_old": 24.1
-    },
-    {
-      "title": "A Critique of GPUI",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T03:51:10+00:00",
-      "points": 138,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 74.495,
-      "hours_old": 34.8
+      "score": 68.996,
+      "hours_old": 47.3
     },
     {
       "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "source": "Hacker News",
       "published_at": "2026-11-09T18:05:44+00:00",
-      "points": 99,
+      "points": 109,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 73.304,
-      "hours_old": 20.5
+      "score": 68.866,
+      "hours_old": 43.8
     },
     {
-      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-      "url": "https://github.com/OmniJev/Flide",
+      "title": "OSS projects banning AI-generated contributions",
+      "url": "https://osssaysno.com",
       "source": "Hacker News",
-      "published_at": "2026-11-09T04:43:12+00:00",
-      "points": 123,
-      "tags": [
-        "hn",
-        "q:LLM"
-      ],
-      "score": 73.064,
-      "hours_old": 33.9
-    },
-    {
-      "title": "Apple capped engineers at a $200 daily AI budget",
-      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T05:30:11+00:00",
-      "points": 113,
+      "published_at": "2026-11-11T08:51:45+00:00",
+      "points": 54,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 72.047,
-      "hours_old": 33.1
-    },
-    {
-      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T10:11:47+00:00",
-      "points": 102,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 71.756,
-      "hours_old": 28.4
+      "score": 68.558,
+      "hours_old": 5.0
     },
     {
       "title": "Meet the Sad Wives of AI",
       "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
       "source": "Hacker News",
       "published_at": "2026-11-10T10:40:51+00:00",
-      "points": 66,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 71.673,
-      "hours_old": 4.0
-    },
-    {
-      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "url": "https://github.com/samir-sarwar/samir-vllm",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T11:36:55+00:00",
       "points": 78,
       "tags": [
         "hn",
-        "q:LLM"
+        "q:AI"
       ],
-      "score": 68.284,
-      "hours_old": 27.0
+      "score": 68.236,
+      "hours_old": 27.2
     },
     {
-      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
-      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
       "source": "Hacker News",
-      "published_at": "2026-11-08T15:00:42+00:00",
-      "points": 108,
+      "published_at": "2026-11-11T00:15:33+00:00",
+      "points": 55,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 67.777,
-      "hours_old": 47.6
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T18:43:07+00:00",
-      "points": 98,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 67.315,
-      "hours_old": 43.9
+      "score": 66.667,
+      "hours_old": 13.6
     },
     {
       "title": "Anthropic to Seek $1.3T Valuation in IPO",
       "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
       "source": "Hacker News",
       "published_at": "2026-11-10T12:49:32+00:00",
-      "points": 42,
+      "points": 60,
       "tags": [
         "hn",
         "q:Anthropic"
       ],
-      "score": 65.811,
-      "hours_old": 1.8
+      "score": 65.042,
+      "hours_old": 25.1
     },
     {
-      "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "title": "AI Users have workdays up to 90 min longer than non-users",
+      "url": "https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/",
       "source": "Hacker News",
-      "published_at": "2026-11-09T03:06:55+00:00",
-      "points": 72,
+      "published_at": "2026-11-10T12:57:24+00:00",
+      "points": 57,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 65.019,
-      "hours_old": 35.5
+      "score": 64.347,
+      "hours_old": 24.9
+    },
+    {
+      "title": "Work at the Frontier: AI's effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:02:54+00:00",
+      "points": 40,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 60.616,
+      "hours_old": 19.8
+    },
+    {
+      "title": "Businesses in ChatGPT – OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:10:40+00:00",
+      "points": 38,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 59.927,
+      "hours_old": 19.7
+    },
+    {
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T15:01:19+00:00",
+      "points": 39,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 59.503,
+      "hours_old": 22.9
+    },
+    {
+      "title": "Research Finds Outright Grants of Cash Are Effective Form of Aid to the Poor",
+      "url": "https://news.columbia.edu/news/research-finds-outright-grants-cash-are-surprisingly-effective-form-aid-poor",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T10:19:26+00:00",
+      "points": 42,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 59.372,
+      "hours_old": 27.6
+    },
+    {
+      "title": "Jensen Huang scandal sparks divorce speculation",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T22:50:35+00:00",
+      "points": 49,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 58.678,
+      "hours_old": 39.0
     },
     {
       "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
       "url": "https://neuracryption.com/research",
       "source": "Hacker News",
       "published_at": "2026-11-10T13:51:51+00:00",
-      "points": 32,
+      "points": 34,
       "tags": [
         "hn",
         "q:LLM"
       ],
-      "score": 62.252,
-      "hours_old": 0.8
+      "score": 57.287,
+      "hours_old": 24.0
     },
     {
-      "title": "Being a meat proxy for AI should be grounds for getting people fired",
-      "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.10866",
       "source": "Hacker News",
-      "published_at": "2026-11-09T06:55:38+00:00",
-      "points": 49,
+      "published_at": "2026-11-10T22:44:49+00:00",
+      "points": 27,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 56.289,
+      "hours_old": 15.1
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T11:38:57+00:00",
+      "points": 31,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 55.441,
+      "hours_old": 26.2
+    },
+    {
+      "title": "Wake me up when AI can...",
+      "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T14:11:54+00:00",
+      "points": 29,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 60.512,
-      "hours_old": 31.7
-    },
-    {
-      "title": "370 Books in 20 months: South African author defends her use of AI",
-      "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T07:21:33+00:00",
-      "points": 44,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 59.1,
-      "hours_old": 31.3
+      "score": 55.147,
+      "hours_old": 23.7
     },
     {
       "title": "Testing Claude on real-world electronics design",
       "url": "https://www.anthropic.com/research/claude-electronics-design",
       "source": "Hacker News",
       "published_at": "2026-11-09T18:58:48+00:00",
-      "points": 33,
+      "points": 34,
       "tags": [
         "hn",
         "q:Anthropic"
       ],
-      "score": 57.962,
-      "hours_old": 19.7
+      "score": 52.566,
+      "hours_old": 42.9
     },
     {
       "title": "Indie Game Development with AI",
       "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
       "source": "Hacker News",
       "published_at": "2026-11-09T21:33:55+00:00",
-      "points": 27,
+      "points": 31,
       "tags": [
         "hn",
         "q:AI"
       ],
-      "score": 55.807,
-      "hours_old": 17.1
-    },
-    {
-      "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-      "url": "https://zenodo.org/records/23682548",
-      "source": "Hacker News",
-      "published_at": "2026-11-09T11:30:27+00:00",
-      "points": 32,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 55.663,
-      "hours_old": 27.1
+      "score": 51.92,
+      "hours_old": 40.3
     },
     {
       "title": "Sleep wearables are training AI on your brainwaves without explicit consent",
@@ -493,275 +584,190 @@
         "hn",
         "q:AI"
       ],
-      "score": 53.97,
-      "hours_old": 20.1
-    },
-    {
-      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T15:19:51+00:00",
-      "points": 37,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 52.654,
-      "hours_old": 47.3
-    },
-    {
-      "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
-      "url": "https://github.com/sshah03/recalc",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T15:12:07+00:00",
-      "points": 33,
-      "tags": [
-        "hn",
-        "q:GPT"
-      ],
-      "score": 51.017,
-      "hours_old": 47.4
-    },
-    {
-      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-      "source": "Hacker News",
-      "published_at": "2026-11-08T19:14:41+00:00",
-      "points": 28,
-      "tags": [
-        "hn",
-        "q:AI"
-      ],
-      "score": 49.733,
+      "score": 48.156,
       "hours_old": 43.4
     },
     {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "source": "The Verge AI",
-      "published_at": "2026-11-10T14:06:54+00:00",
-      "points": 0,
+      "title": "Why Is AI Slop So Frustrating to Read?",
+      "url": "https://zonderlabs.com/slop",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T23:21:45+00:00",
+      "points": 22,
       "tags": [
-        "news"
+        "hn",
+        "q:AI"
       ],
-      "score": 11.871,
-      "hours_old": 0.5
+      "score": 47.605,
+      "hours_old": 38.5
     },
     {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "source": "TechCrunch AI",
-      "published_at": "2026-11-10T14:05:10+00:00",
-      "points": 0,
+      "title": "The Race to Build a \"Find My\" for AI Chips",
+      "url": "https://spectrum.ieee.org/find-my-ai-chip",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T14:09:02+00:00",
+      "points": 24,
       "tags": [
-        "news"
+        "hn",
+        "q:AI"
       ],
-      "score": 11.864,
-      "hours_old": 0.5
+      "score": 46.504,
+      "hours_old": 47.7
     },
     {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "source": "TechCrunch AI",
-      "published_at": "2026-11-10T14:01:39+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.849,
-      "hours_old": 0.6
-    },
-    {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "source": "TechCrunch AI",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.842,
-      "hours_old": 0.6
-    },
-    {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "source": "TechCrunch AI",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.842,
-      "hours_old": 0.6
-    },
-    {
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge AI",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.842,
-      "hours_old": 0.6
-    },
-    {
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "source": "The Verge AI",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.842,
-      "hours_old": 0.6
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.842,
-      "hours_old": 0.6
-    },
-    {
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "source": "The Verge AI",
-      "published_at": "2026-11-10T13:30:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.717,
-      "hours_old": 1.1
-    },
-    {
-      "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
-      "source": "r/MachineLearning",
-      "published_at": "2026-11-10T13:15:51+00:00",
-      "points": 0,
-      "tags": [
-        "reddit"
-      ],
-      "score": 11.658,
-      "hours_old": 1.4
-    },
-    {
-      "title": "Hot take: Fei-Fei Li's World Labs is doing what OpenAI should’ve done with Sora from day one",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsmhgx/hot_take_feifei_lis_world_labs_is_doing_what/",
-      "source": "r/artificial",
-      "published_at": "2026-11-10T13:09:21+00:00",
-      "points": 0,
-      "tags": [
-        "reddit"
-      ],
-      "score": 11.631,
-      "hours_old": 1.5
-    },
-    {
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "source": "TechCrunch AI",
-      "published_at": "2026-11-10T13:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.592,
-      "hours_old": 1.6
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T13:00:00+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.592,
-      "hours_old": 1.6
-    },
-    {
-      "title": "How we tried to predict the dollar (and failed)",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsm4kx/how_we_tried_to_predict_the_dollar_and_failed/",
-      "source": "r/artificial",
-      "published_at": "2026-11-10T12:52:38+00:00",
-      "points": 0,
-      "tags": [
-        "reddit"
-      ],
-      "score": 11.561,
-      "hours_old": 1.8
-    },
-    {
-      "title": "Fable 5.2 just doubled the best Remote Labor Index score [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/",
-      "source": "r/MachineLearning",
-      "published_at": "2026-11-10T12:14:41+00:00",
-      "points": 0,
-      "tags": [
-        "reddit"
-      ],
-      "score": 11.403,
-      "hours_old": 2.4
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "DeepMind Blog",
-      "published_at": "2026-11-10T12:02:28+00:00",
-      "points": 0,
-      "tags": [
-        "news"
-      ],
-      "score": 11.352,
-      "hours_old": 2.6
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI Blog",
-      "published_at": "2026-11-10T12:00:00+00:00",
+      "published_at": "2026-11-12T00:00:00+00:00",
       "points": 0,
       "tags": [
         "news"
       ],
-      "score": 11.342,
-      "hours_old": 2.6
+      "score": 12.0,
+      "hours_old": 0.0
     },
     {
-      "title": "I’d Rather Send 10,000 Emails Than Make 100 Cold Calls",
-      "url": "https://www.reddit.com/r/artificial/comments/1xskxnp/id_rather_send_10000_emails_than_make_100_cold/",
-      "source": "r/artificial",
-      "published_at": "2026-11-10T11:52:18+00:00",
+      "title": "Can we talk about the ML research coming from China? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-11T11:02:38+00:00",
       "points": 0,
       "tags": [
         "reddit"
       ],
-      "score": 11.31,
+      "score": 11.289,
       "hours_old": 2.8
     },
     {
-      "title": "Ex-developer, now in B2B outbound sales (US/EU CTOs), looking for a Founder's Office / BizOps / GTM role (remote)",
-      "url": "https://www.reddit.com/r/artificial/comments/1xsirtm/exdeveloper_now_in_b2b_outbound_sales_useu_ctos/",
-      "source": "r/artificial",
-      "published_at": "2026-11-10T09:42:38+00:00",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-11T09:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.778,
+      "hours_old": 4.9
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI Blog",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.528,
+      "hours_old": 5.9
+    },
+    {
+      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+      "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-11T07:38:57+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.441,
+      "hours_old": 6.2
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-11T07:30:51+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.407,
+      "hours_old": 6.4
+    },
+    {
+      "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-11T05:25:43+00:00",
       "points": 0,
       "tags": [
         "reddit"
       ],
-      "score": 10.77,
-      "hours_old": 4.9
+      "score": 9.885,
+      "hours_old": 8.5
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-11T05:01:16+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.784,
+      "hours_old": 8.9
+    },
+    {
+      "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
+      "url": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-11T04:43:53+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.711,
+      "hours_old": 9.2
+    },
+    {
+      "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-11T02:22:54+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 9.124,
+      "hours_old": 11.5
+    },
+    {
+      "title": "Two AI architecture experiments I've been working on — PHSMLP and Pilot [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xt4amh/two_ai_architecture_experiments_ive_been_working/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-11T01:04:41+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 8.798,
+      "hours_old": 12.8
+    },
+    {
+      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+      "url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-10T23:20:19+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.363,
+      "hours_old": 14.5
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-10T21:08:52+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.815,
+      "hours_old": 16.7
     }
   ]
 }
