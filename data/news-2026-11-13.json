@@ -1,0 +1,770 @@
+{
+  "generated_at": "2026-11-13T14:19:29.563797+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T13:52:29+00:00",
+      "points": 3745,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 124.599,
+      "hours_old": 24.5
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T11:46:41+00:00",
+      "points": 971,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 104.611,
+      "hours_old": 26.5
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T18:21:38+00:00",
+      "points": 980,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 100.39,
+      "hours_old": 44.0
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T17:02:42+00:00",
+      "points": 617,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 99.395,
+      "hours_old": 21.3
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T21:24:35+00:00",
+      "points": 675,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 95.78,
+      "hours_old": 40.9
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T10:18:13+00:00",
+      "points": 332,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 94.788,
+      "hours_old": 4.0
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T15:23:10+00:00",
+      "points": 411,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 93.13,
+      "hours_old": 22.9
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T16:38:44+00:00",
+      "points": 583,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 92.478,
+      "hours_old": 45.7
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:56:11+00:00",
+      "points": 322,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 91.257,
+      "hours_old": 16.4
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T23:06:17+00:00",
+      "points": 294,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 90.241,
+      "hours_old": 15.2
+    },
+    {
+      "title": "Writing correct software is hard and math alone won’t help us (2016)",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T10:28:26+00:00",
+      "points": 364,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 90.155,
+      "hours_old": 27.9
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:24:06+00:00",
+      "points": 313,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 89.965,
+      "hours_old": 19.9
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T16:29:13+00:00",
+      "points": 313,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 89.487,
+      "hours_old": 21.8
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T22:16:41+00:00",
+      "points": 332,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 85.782,
+      "hours_old": 40.0
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:09:49+00:00",
+      "points": 184,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 83.023,
+      "hours_old": 17.2
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T15:33:06+00:00",
+      "points": 292,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 82.254,
+      "hours_old": 46.8
+    },
+    {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T16:57:45+00:00",
+      "points": 236,
+      "tags": [
+        "hn",
+        "q:machine learning"
+      ],
+      "score": 79.547,
+      "hours_old": 45.4
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:15:48+00:00",
+      "points": 121,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 76.292,
+      "hours_old": 20.1
+    },
+    {
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T21:20:01+00:00",
+      "points": 170,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 75.931,
+      "hours_old": 41.0
+    },
+    {
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T19:06:43+00:00",
+      "points": 165,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 74.947,
+      "hours_old": 43.2
+    },
+    {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "url": "https://github.com/tylertms/Stela",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T23:02:38+00:00",
+      "points": 148,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 74.371,
+      "hours_old": 39.3
+    },
+    {
+      "title": "Why You Should Expect an AI Crash",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T23:08:31+00:00",
+      "points": 97,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 74.351,
+      "hours_old": 15.2
+    },
+    {
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T00:38:41+00:00",
+      "points": 83,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 72.503,
+      "hours_old": 13.7
+    },
+    {
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T20:23:57+00:00",
+      "points": 134,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 72.287,
+      "hours_old": 41.9
+    },
+    {
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T16:33:28+00:00",
+      "points": 128,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 70.67,
+      "hours_old": 45.8
+    },
+    {
+      "title": "Pharo in the Browser with WebAssembly",
+      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T14:21:27+00:00",
+      "points": 133,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 70.669,
+      "hours_old": 48.0
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T16:59:26+00:00",
+      "points": 76,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 69.334,
+      "hours_old": 21.3
+    },
+    {
+      "title": "Play GTA5 on Browser",
+      "url": "https://playgta5.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T21:10:35+00:00",
+      "points": 91,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 66.948,
+      "hours_old": 41.1
+    },
+    {
+      "title": "GitHub Incident with Webhooks, Actions, etc.",
+      "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T20:54:37+00:00",
+      "points": 81,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 65.222,
+      "hours_old": 41.4
+    },
+    {
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T16:00:50+00:00",
+      "points": 83,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 64.345,
+      "hours_old": 46.3
+    },
+    {
+      "title": "Show HN: Apron Chat Protocol",
+      "url": "https://apron.chat/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T16:52:31+00:00",
+      "points": 48,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 62.785,
+      "hours_old": 21.4
+    },
+    {
+      "title": "Distributed Ray Tracer",
+      "url": "https://ray.hatchet.run",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T19:06:23+00:00",
+      "points": 45,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 62.431,
+      "hours_old": 19.2
+    },
+    {
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T11:13:46+00:00",
+      "points": 32,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 61.67,
+      "hours_old": 3.1
+    },
+    {
+      "title": "Is there a 'right amount' of AI?",
+      "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T09:27:05+00:00",
+      "points": 33,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 61.656,
+      "hours_old": 4.9
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T17:11:56+00:00",
+      "points": 63,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 60.719,
+      "hours_old": 45.1
+    },
+    {
+      "title": "30 years of Internet transfers with curl",
+      "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T14:31:32+00:00",
+      "points": 40,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 59.626,
+      "hours_old": 23.8
+    },
+    {
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "url": "https://yourairedlines.com",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T14:31:21+00:00",
+      "points": 38,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 58.903,
+      "hours_old": 23.8
+    },
+    {
+      "title": "Anthropic carelessly killed a Claude Code feature users built on, no warning",
+      "url": "https://github.com/anthropics/claude-code/issues/109446",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T03:13:43+00:00",
+      "points": 26,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 56.775,
+      "hours_old": 11.1
+    },
+    {
+      "title": "Torrents are perfect for model distribution",
+      "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T07:20:22+00:00",
+      "points": 37,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 56.733,
+      "hours_old": 31.0
+    },
+    {
+      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "url": "https://github.com/KoljaB/RealtimeVAD",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T21:30:57+00:00",
+      "points": 28,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 56.378,
+      "hours_old": 16.8
+    },
+    {
+      "title": "Reddit Migration's Impact on Lemmy (2023)",
+      "url": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T16:35:38+00:00",
+      "points": 46,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 56.113,
+      "hours_old": 45.7
+    },
+    {
+      "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+      "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T17:32:49+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 52.655,
+      "hours_old": 20.8
+    },
+    {
+      "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+      "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+      "source": "Hacker News",
+      "published_at": "2026-11-11T18:44:23+00:00",
+      "points": 34,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 52.397,
+      "hours_old": 43.6
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12T18:17:29+00:00",
+      "points": 21,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 51.586,
+      "hours_old": 20.0
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-13T14:05:22+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.941,
+      "hours_old": 0.2
+    },
+    {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T14:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.919,
+      "hours_old": 0.3
+    },
+    {
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-13T12:52:19+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.637,
+      "hours_old": 1.5
+    },
+    {
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-13T12:28:23+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.537,
+      "hours_old": 1.9
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T12:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.419,
+      "hours_old": 2.3
+    },
+    {
+      "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-13T10:50:10+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.128,
+      "hours_old": 3.5
+    },
+    {
+      "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-13T10:39:43+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.084,
+      "hours_old": 3.7
+    },
+    {
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-13T10:32:26+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.054,
+      "hours_old": 3.8
+    },
+    {
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-13T09:45:48+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.86,
+      "hours_old": 4.6
+    },
+    {
+      "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-13T05:48:17+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 9.87,
+      "hours_old": 8.5
+    },
+    {
+      "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-13T02:23:51+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 9.018,
+      "hours_old": 11.9
+    },
+    {
+      "title": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-13T00:25:55+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 8.527,
+      "hours_old": 13.9
+    },
+    {
+      "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+      "url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-12T22:43:26+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.1,
+      "hours_old": 15.6
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-12T22:42:51+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.097,
+      "hours_old": 15.6
+    },
+    {
+      "title": "Gemma 3 builds a linearly decodable spatial map from text, but its answers never read it [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuqs9d/gemma_3_builds_a_linearly_decodable_spatial_map/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-12T22:29:05+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 8.04,
+      "hours_old": 15.8
+    },
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-12T22:22:28+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.012,
+      "hours_old": 16.0
+    }
+  ]
+}
