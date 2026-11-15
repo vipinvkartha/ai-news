@@ -1,0 +1,760 @@
+{
+  "generated_at": "2026-11-15T13:43:54.168151+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T02:52:59+00:00",
+      "points": 1080,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 104.069,
+      "hours_old": 34.8
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T22:26:30+00:00",
+      "points": 432,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 95.76,
+      "hours_old": 15.3
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T02:28:29+00:00",
+      "points": 410,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 90.016,
+      "hours_old": 35.3
+    },
+    {
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T15:08:44+00:00",
+      "points": 473,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 89.241,
+      "hours_old": 46.6
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T17:30:10+00:00",
+      "points": 430,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 88.458,
+      "hours_old": 44.2
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T15:04:15+00:00",
+      "points": 249,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 85.993,
+      "hours_old": 22.7
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T22:04:24+00:00",
+      "points": 292,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 84.033,
+      "hours_old": 39.7
+    },
+    {
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "url": "https://github.com/IRS-Public/direct-file",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T17:48:20+00:00",
+      "points": 169,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 81.112,
+      "hours_old": 19.9
+    },
+    {
+      "title": "No AI Slop: A Manifesto",
+      "url": "https://www.slopmanifesto.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T19:51:56+00:00",
+      "points": 220,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 79.412,
+      "hours_old": 41.9
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:05:54+00:00",
+      "points": 159,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 79.311,
+      "hours_old": 23.6
+    },
+    {
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T21:06:52+00:00",
+      "points": 213,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 79.26,
+      "hours_old": 40.6
+    },
+    {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:09:25+00:00",
+      "points": 140,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 77.502,
+      "hours_old": 23.6
+    },
+    {
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T23:04:30+00:00",
+      "points": 178,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 77.174,
+      "hours_old": 38.7
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T15:29:10+00:00",
+      "points": 194,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 76.512,
+      "hours_old": 46.2
+    },
+    {
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T17:55:23+00:00",
+      "points": 177,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 75.805,
+      "hours_old": 43.8
+    },
+    {
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T14:28:40+00:00",
+      "points": 160,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 73.496,
+      "hours_old": 47.3
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:08:12+00:00",
+      "points": 103,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 73.106,
+      "hours_old": 23.6
+    },
+    {
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T19:58:42+00:00",
+      "points": 139,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 72.854,
+      "hours_old": 41.8
+    },
+    {
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T03:05:54+00:00",
+      "points": 66,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 70.003,
+      "hours_old": 10.6
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:06:34+00:00",
+      "points": 81,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 69.67,
+      "hours_old": 23.6
+    },
+    {
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T00:28:11+00:00",
+      "points": 99,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 69.123,
+      "hours_old": 37.3
+    },
+    {
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T06:56:42+00:00",
+      "points": 86,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 68.733,
+      "hours_old": 30.8
+    },
+    {
+      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T15:58:57+00:00",
+      "points": 59,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 65.632,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T19:17:45+00:00",
+      "points": 49,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 63.83,
+      "hours_old": 18.4
+    },
+    {
+      "title": "DeepSeek Ultrafast",
+      "url": "https://github.com/basetenlabs/deepseek-ultrafast",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T17:39:03+00:00",
+      "points": 71,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 62.679,
+      "hours_old": 44.1
+    },
+    {
+      "title": "The avalanche that hit math is coming for AI development",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T18:39:42+00:00",
+      "points": 67,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 62.107,
+      "hours_old": 43.1
+    },
+    {
+      "title": "Israeli airstrike on Nasser hospital in Gaza killed surgeon and others",
+      "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T05:31:44+00:00",
+      "points": 50,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 60.674,
+      "hours_old": 32.2
+    },
+    {
+      "title": "Are we just going to ignore that books are destroyed for AI?",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T18:14:38+00:00",
+      "points": 59,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 60.197,
+      "hours_old": 43.5
+    },
+    {
+      "title": "Lying to Zed to get its remote server running on FreeBSD",
+      "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T22:54:47+00:00",
+      "points": 35,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 53.995,
+      "hours_old": 38.8
+    },
+    {
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T12:44:01+00:00",
+      "points": 27,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 53.824,
+      "hours_old": 25.0
+    },
+    {
+      "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
+      "url": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T14:34:13+00:00",
+      "points": 34,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 51.502,
+      "hours_old": 47.2
+    },
+    {
+      "title": "Why platform teams fail (and AI makes it worse)",
+      "url": "https://willdady.com/why-platform-teams-fail",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T12:32:36+00:00",
+      "points": 20,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 49.626,
+      "hours_old": 25.2
+    },
+    {
+      "title": "MS Office alternative Euro-Office gets Windows, macOS, and Linux desktop app",
+      "url": "https://www.neowin.net/news/microsoft-office-alternative-euro-office-gets-windows-macos-and-linux-desktop-app/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T15:52:52+00:00",
+      "points": 26,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 48.086,
+      "hours_old": 45.9
+    },
+    {
+      "title": "Gnomon. Git for Postgres data, built for agents",
+      "url": "https://github.com/bitsinfra/gnomon",
+      "source": "Hacker News",
+      "published_at": "2026-11-13T17:09:52+00:00",
+      "points": 22,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 46.094,
+      "hours_old": 44.6
+    },
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge AI",
+      "published_at": "2026-11-15T13:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.817,
+      "hours_old": 0.7
+    },
+    {
+      "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-15T12:03:27+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.581,
+      "hours_old": 1.7
+    },
+    {
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-15T10:06:21+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.094,
+      "hours_old": 3.6
+    },
+    {
+      "title": "What might count as conscious? [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwrrtw/what_might_count_as_conscious_p/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-15T09:58:34+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 11.061,
+      "hours_old": 3.8
+    },
+    {
+      "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-15T09:05:22+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 10.839,
+      "hours_old": 4.6
+    },
+    {
+      "title": "LongMemEval-S: 96.0% with the official judge, and what top-5 vs top-20 retrieval changes [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwnloh/longmemevals_960_with_the_official_judge_and_what/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-15T05:40:25+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 9.985,
+      "hours_old": 8.1
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.601,
+      "hours_old": 13.6
+    },
+    {
+      "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T23:59:28+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 8.565,
+      "hours_old": 13.7
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.989,
+      "hours_old": 16.0
+    },
+    {
+      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T20:33:14+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 7.706,
+      "hours_old": 17.2
+    },
+    {
+      "title": "Anonymous GitHub not working [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T18:31:16+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 7.197,
+      "hours_old": 19.2
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.942,
+      "hours_old": 20.2
+    },
+    {
+      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+      "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-14T16:45:48+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.758,
+      "hours_old": 21.0
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-14T16:34:15+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.71,
+      "hours_old": 21.2
+    },
+    {
+      "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T16:23:34+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 6.665,
+      "hours_old": 21.3
+    },
+    {
+      "title": "Ethical Alternatives to Kaggle [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T16:20:55+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 6.654,
+      "hours_old": 21.4
+    },
+    {
+      "title": "ICLR 2027 Rebuttal [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T16:00:01+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 6.567,
+      "hours_old": 21.7
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge AI",
+      "published_at": "2026-11-14T15:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.317,
+      "hours_old": 22.7
+    },
+    {
+      "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T14:31:29+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 6.198,
+      "hours_old": 23.2
+    },
+    {
+      "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
+      "source": "r/MachineLearning",
+      "published_at": "2026-11-14T14:28:42+00:00",
+      "points": 0,
+      "tags": [
+        "reddit"
+      ],
+      "score": 6.187,
+      "hours_old": 23.3
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge AI",
+      "published_at": "2026-11-14T12:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 5.567,
+      "hours_old": 25.7
+    },
+    {
+      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+      "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-14T10:21:21+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 5.156,
+      "hours_old": 27.4
+    },
+    {
+      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+      "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-14T06:38:14+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 4.226,
+      "hours_old": 31.1
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T23:49:11+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 2.522,
+      "hours_old": 37.9
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 2.246,
+      "hours_old": 39.0
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T20:45:10+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 1.755,
+      "hours_old": 41.0
+    }
+  ]
+}
