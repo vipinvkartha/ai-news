@@ -1,0 +1,775 @@
+{
+  "generated_at": "2026-11-26T16:39:34.081354+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T01:19:26+00:00",
+      "points": 1055,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 102.61,
+      "hours_old": 39.3
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T21:18:02+00:00",
+      "points": 531,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 97.713,
+      "hours_old": 19.4
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T21:48:10+00:00",
+      "points": 510,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 97.258,
+      "hours_old": 18.9
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T03:36:58+00:00",
+      "points": 417,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 95.813,
+      "hours_old": 13.0
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T15:08:44+00:00",
+      "points": 498,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 95.25,
+      "hours_old": 25.5
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T13:33:07+00:00",
+      "points": 497,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 94.823,
+      "hours_old": 27.1
+    },
+    {
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T10:11:01+00:00",
+      "points": 311,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 93.235,
+      "hours_old": 6.5
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T03:04:37+00:00",
+      "points": 461,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 91.122,
+      "hours_old": 37.6
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T11:34:25+00:00",
+      "points": 339,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 88.822,
+      "hours_old": 29.1
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T00:54:49+00:00",
+      "points": 401,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 88.574,
+      "hours_old": 39.7
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T16:45:44+00:00",
+      "points": 458,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 88.449,
+      "hours_old": 47.9
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T04:31:48+00:00",
+      "points": 352,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 87.603,
+      "hours_old": 36.1
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T03:00:48+00:00",
+      "points": 234,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 87.354,
+      "hours_old": 13.6
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T21:02:22+00:00",
+      "points": 355,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 85.852,
+      "hours_old": 43.6
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T22:15:34+00:00",
+      "points": 212,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 84.747,
+      "hours_old": 18.4
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T06:32:48+00:00",
+      "points": 163,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 83.047,
+      "hours_old": 10.1
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T15:59:23+00:00",
+      "points": 186,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 81.302,
+      "hours_old": 24.7
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T03:47:42+00:00",
+      "points": 222,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 80.793,
+      "hours_old": 36.9
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T17:34:34+00:00",
+      "points": 171,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 80.492,
+      "hours_old": 23.1
+    },
+    {
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T17:10:45+00:00",
+      "points": 224,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 78.268,
+      "hours_old": 47.5
+    },
+    {
+      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+      "url": "https://github.com/samcorcos/legatum/issues/147",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T04:56:36+00:00",
+      "points": 154,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 75.832,
+      "hours_old": 35.7
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T09:44:23+00:00",
+      "points": 92,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 75.662,
+      "hours_old": 6.9
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T15:20:15+00:00",
+      "points": 122,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 75.095,
+      "hours_old": 25.3
+    },
+    {
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T03:01:36+00:00",
+      "points": 104,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 69.734,
+      "hours_old": 37.6
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T18:55:12+00:00",
+      "points": 99,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 67.004,
+      "hours_old": 45.7
+    },
+    {
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T21:07:38+00:00",
+      "points": 89,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 66.035,
+      "hours_old": 43.5
+    },
+    {
+      "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+      "url": "https://danprice.ai/blog/opus-symphony",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T19:57:08+00:00",
+      "points": 57,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 65.403,
+      "hours_old": 20.7
+    },
+    {
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T17:27:05+00:00",
+      "points": 54,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 64.012,
+      "hours_old": 23.2
+    },
+    {
+      "title": "Get in, friends, the Atmosphere is happening",
+      "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T23:23:35+00:00",
+      "points": 64,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 61.907,
+      "hours_old": 41.3
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T22:27:19+00:00",
+      "points": 52,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 58.728,
+      "hours_old": 42.2
+    },
+    {
+      "title": "Migrating Our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T19:33:10+00:00",
+      "points": 30,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 56.265,
+      "hours_old": 21.1
+    },
+    {
+      "title": "Proposed unificafion of quantum gravity and General relativity",
+      "url": "https://www.reddit.com/r/singularity/comments/1y5u48p/openai_and_gpt6_astra_just_tackled_physics_holy/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T06:45:00+00:00",
+      "points": 24,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 55.961,
+      "hours_old": 9.9
+    },
+    {
+      "title": "New York Ban AI Toys for 5 Years",
+      "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T21:49:50+00:00",
+      "points": 38,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 54.147,
+      "hours_old": 42.8
+    },
+    {
+      "title": "Limiting Charging to 80 Percent",
+      "url": "https://www.jefftk.com/p/limiting-charging-to-80",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T15:00:05+00:00",
+      "points": 27,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 53.659,
+      "hours_old": 25.7
+    },
+    {
+      "title": "Compiling web applications into verified operations for AI agents",
+      "url": "https://protocolis.co/paper/",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T19:12:02+00:00",
+      "points": 34,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 51.928,
+      "hours_old": 45.5
+    },
+    {
+      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
+      "url": "https://carry.md/",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T03:19:02+00:00",
+      "points": 29,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 51.733,
+      "hours_old": 37.3
+    },
+    {
+      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T21:14:06+00:00",
+      "points": 29,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 50.213,
+      "hours_old": 43.4
+    },
+    {
+      "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T05:31:55+00:00",
+      "points": 24,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 49.657,
+      "hours_old": 35.1
+    },
+    {
+      "title": "Wall Street Expects Anthropic's Committed $900B Debt to Be Junk",
+      "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T12:08:31+00:00",
+      "points": 20,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 48.794,
+      "hours_old": 28.5
+    },
+    {
+      "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+      "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T17:46:41+00:00",
+      "points": 23,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 46.129,
+      "hours_old": 46.9
+    },
+    {
+      "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+      "url": "https://joonoo.art/create-comic",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T17:53:53+00:00",
+      "points": 21,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 44.904,
+      "hours_old": 46.8
+    },
+    {
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-26T16:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.835,
+      "hours_old": 0.7
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T11:37:17+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.74,
+      "hours_old": 5.0
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "published_at": "2026-11-26T09:54:40+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 10.313,
+      "hours_old": 6.7
+    },
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T05:05:36+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 9.108,
+      "hours_old": 11.6
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.835,
+      "hours_old": 16.7
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T22:44:32+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.521,
+      "hours_old": 17.9
+    },
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge AI",
+      "published_at": "2026-11-25T21:51:26+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.299,
+      "hours_old": 18.8
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T20:03:27+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.85,
+      "hours_old": 20.6
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T19:54:57+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.814,
+      "hours_old": 20.7
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T19:44:24+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.77,
+      "hours_old": 20.9
+    },
+    {
+      "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+      "url": "https://arxiv.org/abs/2611.34942v1",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-25T18:59:57+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.AI"
+      ],
+      "score": 6.585,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Tokenisation is not in APX",
+      "url": "https://arxiv.org/abs/2611.34938v1",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-25T18:59:38+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.LG"
+      ],
+      "score": 6.584,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "https://arxiv.org/abs/2611.34934v1",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-25T18:59:28+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.AI"
+      ],
+      "score": 6.583,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Can image generation help visual reasoning? An empirical study",
+      "url": "https://arxiv.org/abs/2611.34935v1",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-25T18:59:31+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.LG"
+      ],
+      "score": 6.583,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "url": "https://arxiv.org/abs/2611.34928v1",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-25T18:59:11+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.AI"
+      ],
+      "score": 6.582,
+      "hours_old": 21.7
+    },
+    {
+      "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+      "url": "https://arxiv.org/abs/2611.34930v1",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-25T18:59:13+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.LG"
+      ],
+      "score": 6.582,
+      "hours_old": 21.7
+    },
+    {
+      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "url": "https://arxiv.org/abs/2611.34920v1",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-25T18:58:42+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.AI"
+      ],
+      "score": 6.58,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Mixture-of-Loops Transformer",
+      "url": "https://arxiv.org/abs/2611.34923v1",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-25T18:58:53+00:00",
+      "points": 0,
+      "tags": [
+        "paper",
+        "cs.LG"
+      ],
+      "score": 6.58,
+      "hours_old": 21.7
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T18:52:55+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.556,
+      "hours_old": 21.8
+    }
+  ]
+}
