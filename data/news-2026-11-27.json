@@ -1,0 +1,770 @@
+{
+  "generated_at": "2026-11-27T16:24:47.365131+00:00",
+  "count": 60,
+  "items": [
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T21:47:45+00:00",
+      "points": 934,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 106.034,
+      "hours_old": 18.6
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T06:44:34+00:00",
+      "points": 527,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 100.026,
+      "hours_old": 9.7
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T01:13:49+00:00",
+      "points": 488,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 97.541,
+      "hours_old": 15.2
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T10:11:01+00:00",
+      "points": 563,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 95.838,
+      "hours_old": 30.2
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T21:08:05+00:00",
+      "points": 463,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 95.76,
+      "hours_old": 19.3
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T17:36:47+00:00",
+      "points": 488,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 95.637,
+      "hours_old": 22.8
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T21:18:02+00:00",
+      "points": 676,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 95.252,
+      "hours_old": 43.1
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T17:11:29+00:00",
+      "points": 414,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 93.164,
+      "hours_old": 23.2
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T21:48:10+00:00",
+      "points": 558,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 92.614,
+      "hours_old": 42.6
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T03:36:58+00:00",
+      "points": 502,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 92.545,
+      "hours_old": 36.8
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T09:44:23+00:00",
+      "points": 387,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 90.331,
+      "hours_old": 30.7
+    },
+    {
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T17:16:41+00:00",
+      "points": 314,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 89.208,
+      "hours_old": 23.1
+    },
+    {
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T07:33:12+00:00",
+      "points": 350,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 88.338,
+      "hours_old": 32.9
+    },
+    {
+      "title": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T06:32:48+00:00",
+      "points": 310,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 86.341,
+      "hours_old": 33.9
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T14:44:22+00:00",
+      "points": 265,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 86.134,
+      "hours_old": 25.7
+    },
+    {
+      "title": "Show HN: Fuck_data_brokers.py",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T18:37:21+00:00",
+      "points": 240,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 85.681,
+      "hours_old": 21.8
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T03:00:48+00:00",
+      "points": 298,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 84.89,
+      "hours_old": 37.4
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T12:54:11+00:00",
+      "points": 153,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 83.79,
+      "hours_old": 3.5
+    },
+    {
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T12:03:11+00:00",
+      "points": 122,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 80.335,
+      "hours_old": 4.4
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T22:15:34+00:00",
+      "points": 233,
+      "tags": [
+        "hn",
+        "q:LLM"
+      ],
+      "score": 80.165,
+      "hours_old": 42.2
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:18:09+00:00",
+      "points": 155,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 79.576,
+      "hours_old": 21.1
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T15:00:06+00:00",
+      "points": 150,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 78.031,
+      "hours_old": 25.4
+    },
+    {
+      "title": "New York and California age gating rules go into effect in the new year",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T12:43:40+00:00",
+      "points": 97,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 77.226,
+      "hours_old": 3.7
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T15:01:50+00:00",
+      "points": 91,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 76.89,
+      "hours_old": 1.4
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:04:50+00:00",
+      "points": 123,
+      "tags": [
+        "hn",
+        "q:machine learning"
+      ],
+      "score": 76.209,
+      "hours_old": 21.3
+    },
+    {
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T04:59:56+00:00",
+      "points": 155,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 76.0,
+      "hours_old": 35.4
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T17:34:34+00:00",
+      "points": 180,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 75.289,
+      "hours_old": 46.8
+    },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T11:09:04+00:00",
+      "points": 75,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 73.164,
+      "hours_old": 5.3
+    },
+    {
+      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+      "url": "https://news.ycombinator.com/item?id=50656763",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T16:16:41+00:00",
+      "points": 78,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 69.004,
+      "hours_old": 24.1
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T15:03:17+00:00",
+      "points": 51,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 68.665,
+      "hours_old": 1.4
+    },
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T00:03:18+00:00",
+      "points": 56,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 66.239,
+      "hours_old": 16.4
+    },
+    {
+      "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+      "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T16:55:15+00:00",
+      "points": 60,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 65.434,
+      "hours_old": 23.5
+    },
+    {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://github.com/rxliuli/sim-drop",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T16:51:38+00:00",
+      "points": 53,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 63.661,
+      "hours_old": 23.6
+    },
+    {
+      "title": "Top-cited AI scientists at four US companies compared",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:44:31+00:00",
+      "points": 43,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 61.427,
+      "hours_old": 20.7
+    },
+    {
+      "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+      "url": "https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T11:52:53+00:00",
+      "points": 31,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 60.867,
+      "hours_old": 4.5
+    },
+    {
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T02:44:12+00:00",
+      "points": 35,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 60.28,
+      "hours_old": 13.7
+    },
+    {
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T17:27:05+00:00",
+      "points": 56,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 58.588,
+      "hours_old": 47.0
+    },
+    {
+      "title": "'AI' might be the end of our careers",
+      "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T17:29:28+00:00",
+      "points": 36,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 58.364,
+      "hours_old": 22.9
+    },
+    {
+      "title": "Poland to create no-fly zone at border after repeated airspace violations",
+      "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:09:14+00:00",
+      "points": 32,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 57.129,
+      "hours_old": 21.3
+    },
+    {
+      "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T17:55:10+00:00",
+      "points": 27,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 54.45,
+      "hours_old": 22.5
+    },
+    {
+      "title": "The US Government Is Under AI Cyberattack",
+      "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T21:26:33+00:00",
+      "points": 24,
+      "tags": [
+        "hn",
+        "q:AI"
+      ],
+      "score": 53.696,
+      "hours_old": 19.0
+    },
+    {
+      "title": "Migrating Our Messages API to Rust",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "source": "Hacker News",
+      "published_at": "2026-11-25T19:33:10+00:00",
+      "points": 34,
+      "tags": [
+        "hn",
+        "q:Anthropic"
+      ],
+      "score": 52.078,
+      "hours_old": 44.9
+    },
+    {
+      "title": "Proposed unificafion of quantum gravity and General relativity",
+      "url": "https://www.reddit.com/r/singularity/comments/1y5u48p/openai_and_gpt6_astra_just_tackled_physics_holy/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T06:45:00+00:00",
+      "points": 26,
+      "tags": [
+        "hn",
+        "q:OpenAI"
+      ],
+      "score": 51.133,
+      "hours_old": 33.7
+    },
+    {
+      "title": "Your glasses got worse on purpose",
+      "url": "https://www.worseonpurpose.com/p/your-glasses-got-worse-on-purpose",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T06:53:41+00:00",
+      "points": 22,
+      "tags": [
+        "hn",
+        "q:GPT"
+      ],
+      "score": 48.856,
+      "hours_old": 33.5
+    },
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI",
+      "published_at": "2026-11-27T14:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 11.397,
+      "hours_old": 2.4
+    },
+    {
+      "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+      "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-27T03:43:35+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.828,
+      "hours_old": 12.7
+    },
+    {
+      "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+      "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-27T03:31:30+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 8.778,
+      "hours_old": 12.9
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.897,
+      "hours_old": 16.4
+    },
+    {
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "source": "MarkTechPost",
+      "published_at": "2026-11-26T22:06:40+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 7.424,
+      "hours_old": 18.3
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 6.913,
+      "hours_old": 20.3
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-26T16:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 5.897,
+      "hours_old": 24.4
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T11:37:17+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 4.802,
+      "hours_old": 28.8
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI",
+      "published_at": "2026-11-26T09:54:40+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 4.374,
+      "hours_old": 30.5
+    },
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T05:05:36+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 3.17,
+      "hours_old": 35.3
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 1.897,
+      "hours_old": 40.4
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T22:44:32+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 1.582,
+      "hours_old": 41.7
+    },
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge AI",
+      "published_at": "2026-11-25T21:51:26+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 1.361,
+      "hours_old": 42.6
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T20:03:27+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.911,
+      "hours_old": 44.4
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T19:54:57+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.876,
+      "hours_old": 44.5
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "published_at": "2026-11-25T19:44:24+00:00",
+      "points": 0,
+      "tags": [
+        "news"
+      ],
+      "score": 0.832,
+      "hours_old": 44.7
+    }
+  ]
+}
